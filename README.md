@@ -1,2 +1,2 @@
-# bearing-deep-learning-study-
+# bearing-deep-learning--
 edu LEE
